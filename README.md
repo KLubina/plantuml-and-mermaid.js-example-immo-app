@@ -28,5 +28,3 @@ You can view the diagrams directly in your browser using this link:
 - **Mermaid.js**: For interactive diagrams
 - **PlantUML**: For static UML diagrams
 
-Enjoy exploring the workflow! 🚀
-
